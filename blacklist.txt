@@ -28,8 +28,8 @@ priv.vc
 rassnet.org
 safetyjabber.com
 shad0w.io
-shad0w.ru
 shad0w.la
+shad0w.ru
 shadownet.su
 sj.ms
 sqli.io
